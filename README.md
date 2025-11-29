@@ -5,6 +5,7 @@
  ## **Javascript**
  - Variables
  - Datatypes
+ - Conditions
  ## **Java**
  ## **python**
  
