@@ -5,6 +5,10 @@
  ## **Javascript**
  - Variables
  - Datatypes
+ - Method
+ - Operator
+ - Function
+ - Scope
  - Conditions
  ## **Java**
  ## **python**
