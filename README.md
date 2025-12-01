@@ -11,6 +11,9 @@
  - Scope
  - Conditions
  ## **Java**
+- Flowchart 
+- psudocode 
+- JRE / JVM
  ## **python**
  
 ---
