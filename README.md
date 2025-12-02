@@ -15,5 +15,6 @@
 - psudocode 
 - JRE / JVM
  ## **python**
+- Basic interview questions 
  
 ---
