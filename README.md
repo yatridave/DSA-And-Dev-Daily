@@ -10,7 +10,7 @@
  - Function
  - Scope
  - Conditions
- ## **Java**
+ ## **Java** 100 Days Of Code
 - Flowchart 
 - psudocode 
 - JRE / JVM
