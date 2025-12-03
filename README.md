@@ -12,11 +12,13 @@
  - Conditions
  ## **Java** 100 Days Of Code
 - Flowchart 
-- psudocode 
+- Psudocode 
 - JRE / JVM
  ## **python** 100 Days Of Code 
 - Modules
 - Pip
-- Comment 
+- Comments
+- Escape Sequence 
+- Print Statement 
  
 ---
