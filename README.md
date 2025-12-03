@@ -14,8 +14,9 @@
 - Flowchart 
 - psudocode 
 - JRE / JVM
- ## **python**
+ ## **python** 100 Days Of Code 
 - Modules
 - Pip
+- Comment 
  
 ---
