@@ -22,3 +22,15 @@
 - Print Statement 
  
 ---
+
+## **Day 2 — 3 December 2025 (Wednesday)**
+
+
+ ## **Javascript**
+
+
+
+ ## **Java** 100 Days Of Code 
+
+
+ ## **Python** 100 Days Of Code 
