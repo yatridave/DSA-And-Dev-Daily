@@ -31,7 +31,9 @@
 
 
  ## **Java** 100 Days Of Code 
- - Basic fundamentals of java
+ - Basic fundamentals of java 1. Input/output
+                              2. Variables
+                              3. Datatypes 
    
 
 
