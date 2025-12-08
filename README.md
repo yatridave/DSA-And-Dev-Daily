@@ -23,7 +23,7 @@
  
 ---
 
-## **Day 2 — 5 December 2025 (Wednesday)**
+## **Day 2 — 8 December 2025 (Wednesday)**
 
 
  ## **Javascript**
@@ -31,6 +31,8 @@
 
 
  ## **Java** 100 Days Of Code 
+ - Basic fundamentals of java
+   
 
 
  ## **Python** 100 Days Of Code 
