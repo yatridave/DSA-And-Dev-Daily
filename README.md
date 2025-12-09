@@ -23,7 +23,7 @@
  
 ---
 
-## **Day 2 — 8 December 2025 (Wednesday)**
+## **Day 2 — 10 December 2025 (Wednesday)**
 
 
  ## **Javascript**
