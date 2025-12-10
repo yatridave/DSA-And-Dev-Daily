@@ -5,14 +5,10 @@
  ## **Javascript**
  - Variables
  - Datatypes
- - Method
- - Operator
- - Function
- - Scope
- - Conditions
  ## **Java** 100 Days Of Code
 - Flowchart 
 - Psudocode 
+- JDK install 
 - JRE / JVM
  ## **python** 100 Days Of Code 
 - Modules
@@ -23,20 +19,21 @@
  
 ---
 
-## **Day 2 — 10 December 2025 (Wednesday)**
+## **Day 2 — 11 December 2025 (Wednesday)**
 
 
  ## **Javascript**
-
-
+ - Method
+ - Operator
+ - Function
+ - Scope
+ - Conditions
 
  ## **Java** 100 Days Of Code 
  - Basic fundamentals of java 1. Input/output
                               2. Variables
                               3. Datatypes 
    
-
-
  ## **Python** 100 Days Of Code 
  - variable 
  - Datatypes 
