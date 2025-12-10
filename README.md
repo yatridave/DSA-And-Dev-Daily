@@ -23,8 +23,8 @@
 
 
  ## **Javascript**
+ - Operators and conditional statements 
  - Method
- - Operator
  - Function
  - Scope
  - Conditions
