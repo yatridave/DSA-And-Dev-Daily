@@ -30,6 +30,7 @@
  - Conditions
 
  ## **Java** 100 Days Of Code 
+ - first program of java
  - Basic fundamentals of java 1. Input/output
                               2. Variables
                               3. Datatypes 
