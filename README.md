@@ -1,5 +1,5 @@
 # DSA-And-Dev-Daily
-## **Day 1 — 28 November 2025 (Friday)**
+## **Day 1 — 15 December 2025 (Monday)**
 - solve 50 practical & theoritical questions-answers of each HTML, CSS, Bootstrap for interview prep.
 
  ## **Javascript**
@@ -19,7 +19,7 @@
  
 ---
 
-## **Day 2 — 11 December 2025 (Wednesday)**
+## **Day 2 — 16 December 2025 (Tuesday)**
 
 
  ## **Javascript**
@@ -38,6 +38,9 @@
  ## **Python** 100 Days Of Code 
  - variable 
  - Datatypes 
+
+
+## **Day 2 — 16 December 2025 (Tuesday)**
 
 
 
