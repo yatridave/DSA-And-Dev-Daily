@@ -21,19 +21,15 @@
 
 ## **Day 2 — 16 December 2025 (Tuesday)**
 
-
  ## **Javascript**
  - Operators and conditional statements 
- - Method
- - Function
- - Scope
- - Conditions
 
  ## **Java** 100 Days Of Code 
  - first program of java
  - Basic fundamentals of java 1. Input/output
                               2. Variables
                               3. Datatypes 
+ - Arrays in java
    
  ## **Python** 100 Days Of Code 
  - variable 
@@ -41,6 +37,20 @@
 
 
 ## **Day 3 — 17 December 2025 (Wednesday)**
+
+## **Javascript**
+
+
+
+ ## **Java** 100 Days Of Code 
+
+---
+
+ - Method
+ - Function
+ - Scope
+ - Conditions
+
 
 
 
