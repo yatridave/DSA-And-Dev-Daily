@@ -40,17 +40,17 @@
 
 ## **Javascript**
 
+- Method
+ - Function
+ - Scope
+ - Conditions
 
 
  ## **Java** 100 Days Of Code 
 
 ---
 
- - Method
- - Function
- - Scope
- - Conditions
-
+ 
 
 
 
