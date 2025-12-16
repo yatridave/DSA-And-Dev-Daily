@@ -40,7 +40,7 @@
  - Datatypes 
 
 
-## **Day 2 — 16 December 2025 (Tuesday)**
+## **Day 3 — 17 December 2025 (Wednesday)**
 
 
 
