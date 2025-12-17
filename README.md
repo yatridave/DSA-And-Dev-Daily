@@ -48,6 +48,9 @@
 
  ## **Java** 100 Days Of Code 
 
+## **Python** 100 Days Of Code
+- Typescript 
+
 ---
 
  
