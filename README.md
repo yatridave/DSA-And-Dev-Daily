@@ -39,14 +39,15 @@
 ## **Day 3 — 17 December 2025 (Wednesday)**
 
 ## **Javascript**
-
+- Loops and string 
 - Method
  - Function
  - Scope
  - Conditions
 
 
- ## **Java** 100 Days Of Code 
+ ## **Java** 100 Days Of Code
+- Conditional statements 
 
 ## **Python** 100 Days Of Code
 - Typescript 
