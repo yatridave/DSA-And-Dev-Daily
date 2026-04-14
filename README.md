@@ -1,12 +1,13 @@
-# DSA-And-Dev-Daily / 90 Days / 31/03/2026 To 28/06/2026
+# DSA-And-Dev-Daily / 90 Days / 14/04/2026 To 28/06/2026
 
-## **Day 1 — 11 April 2026 (saturday)**
+## **Day 1 — 14 April 2026 (tuseday)**
 - solve 50 practical & theoritical questions-answers of each HTML, CSS, Bootstrap for interview prep.
 
  ## **Javascript**
  - Variables
  - Datatypes
  - Learnt about sementic tags/elements
+ - Block/inline elements
  - SEO Optimization
  
 ---
