@@ -12,10 +12,11 @@
  
 ---
 
-## **Day 2 — 16 December 2025 (Tuesday)**
+## **Day 2 — 15 April 2025 (wednesday)**
 
  ## **Javascript**
- - Operators and conditional statements 
+ - SEO optimization playlist continued
+ - Apllied to cisco  
 
  ---
 
