@@ -20,9 +20,17 @@
 
  ---
 
-## **Day 3 — 17 December 2025 (Wednesday)**
+## **Day 3 — 29 April 2026 (Wednesday)**
 
 ## **Javascript**
+Not in depth just list and differentiation 
+- Types of datatypes 
+- Types of data structure 
+- Types of algorithms 
+
+SEO Video playlist continued 
+- video 11 : what is keywords 
+
 - Loops and string 
 - Method
  - Function
