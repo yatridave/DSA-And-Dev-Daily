@@ -30,11 +30,17 @@ Not in depth just list and differentiation
 SEO Video playlist continued 
 - video 11 : what is keywords 
 
-- Loops and string 
+## **Day 4 — 1 may 2026 (friday)**
+
+-  Operators
+-  conditional statement
+-  Loops
+-  string 
 - Method
  - Function
  - Scope
  - Conditions
+- Arrays
 
 
 
