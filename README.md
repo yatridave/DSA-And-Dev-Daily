@@ -14,7 +14,6 @@
 
 ## **Day 2 — 15 April 2025 (wednesday)**
 
- ## **Javascript**
  - SEO optimization playlist continued
  - Apllied to cisco  
 
