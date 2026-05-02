@@ -36,11 +36,21 @@ SEO Video playlist continued
 -  conditional statement
 -  Loops
 -  string 
+-  Arrays 
+-  solve 2 problems in leetcode of 2 some and try to solve in codeforce as well
+-  Read book
+
+
+
+
+
+
+
 - Method
  - Function
  - Scope
  - Conditions
-- Arrays
+- 
 
 
 
