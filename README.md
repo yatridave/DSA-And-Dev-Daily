@@ -33,7 +33,7 @@ SEO Video playlist continued
 ## **Day 4 — 1 may 2026 (friday)**
 
 -  SEO continued :
-Topics - navigational keywords/ transactional commercial keywords 
+Topics - navigational keywords / transactional / commercial keywords 
 full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBIdaDEHtI4gAxaYoq1&si=4jeDBk-MqCT3_5mj
 
 -  Operators
