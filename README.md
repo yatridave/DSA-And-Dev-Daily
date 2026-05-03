@@ -30,11 +30,13 @@ Not in depth just list and differentiation
 SEO Video playlist continued 
 - video 11 : what is keywords 
 
-## **Day 4 — 1 may 2026 (friday)**
+## **Day 4 — 2 may 2026 (Saturday)**
 
 -  SEO continued :
 Topics - navigational keywords / transactional / commercial keywords 
 full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBIdaDEHtI4gAxaYoq1&si=4jeDBk-MqCT3_5mj
+
+## **Day 4 — 3 may 2026 (sunday)**
 
 -  Operators
 -  conditional statement
