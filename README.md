@@ -36,7 +36,7 @@ SEO Video playlist continued
 Topics - navigational keywords / transactional / commercial keywords 
 full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBIdaDEHtI4gAxaYoq1&si=4jeDBk-MqCT3_5mj
 
-## **Day 4 — 3 may 2026 (sunday)**
+## **Day 4 — 7 may 2026 (Thursday)**
 
 -  Operators
 -  conditional statement
