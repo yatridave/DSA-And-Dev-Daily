@@ -56,8 +56,6 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
  - Function
  - Scope
  - Conditions
-- 
-
 
 
 ---
