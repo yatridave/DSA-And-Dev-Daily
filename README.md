@@ -36,7 +36,7 @@ SEO Video playlist continued
 Topics - navigational keywords / transactional / commercial keywords 
 full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBIdaDEHtI4gAxaYoq1&si=4jeDBk-MqCT3_5mj
 
-## **Day 4 — 7 may 2026 (Thursday)**
+## **Day 4 — 8 may 2026 (Friday)**
 
 -  Operators
 -  conditional statement
@@ -45,9 +45,6 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
 -  Arrays 
 -  solve 2 problems in leetcode of 2 some and try to solve in codeforce as well
 -  Read about Array from the book ( cracking the coding interview )
-
-
-
 
 
 
