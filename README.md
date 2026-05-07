@@ -47,6 +47,7 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
 -  Read about Array from the book ( cracking the coding interview )
 
 
+## **Day 5 — 9 may 2026 (Saturday)**
 
 
 - Method
