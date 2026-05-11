@@ -49,7 +49,6 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
 
 ## **Day 5 — 9 may 2026 (Saturday)**
 
-
 - Method
  - Function
  - Scope
