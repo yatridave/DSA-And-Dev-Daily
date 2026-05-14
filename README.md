@@ -56,8 +56,9 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
  - Scope
  - Conditions
 
-## **Day 6 — 13 may 2026 (Wednesday)**
+## **Day 6 — 14 may 2026 (Thursday)**
 
+SEO Topics :
 
 ---
 
