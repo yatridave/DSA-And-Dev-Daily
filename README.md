@@ -51,6 +51,11 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
 
 - SEO Topics : singular/plural keywords , Brainstorming for Keywords
 
+ ## **Day 6 — 19 May 2026 (Tuseday)**
+
+ - Seo Topics : Basic points of keyword research , SEMRUSH Tools for keyword research
+
+
 - Method
  - Function
  - Scope
