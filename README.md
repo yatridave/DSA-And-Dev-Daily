@@ -55,7 +55,6 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
 
  - Seo Topics : Basic points of keyword research , SEMRUSH Tools for keyword research
 
-   ## **Day 7 — 24 May 2026 (Sunday)**
 
 
 
