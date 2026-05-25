@@ -57,7 +57,8 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
 
  ## **Day 6 — 19 May 2026 (Tuseday)**
 
-   - System Design 
+   - System Design video by apna college
+   - Practiced behavioral questions from the book cracking the coding interview
 
 
 - Method
