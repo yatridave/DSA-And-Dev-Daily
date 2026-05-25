@@ -59,6 +59,7 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
 
    - System Design video by apna college
    - Practiced behavioral questions from the book cracking the coding interview
+   - SEO video-21 - what is google keyword planner
 
 
 - Method
