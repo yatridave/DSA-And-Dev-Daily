@@ -55,11 +55,16 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
 
  - Seo Topics : Basic points of keyword research , SEMRUSH Tools for keyword research
 
- ## **Day 6 — 19 May 2026 (Tuseday)**
+ ## **Day 6 — 25 May 2026 (Monday)**
 
    - System Design video by apna college
    - Practiced behavioral questions from the book cracking the coding interview
    - SEO video-21 - what is google keyword planner
+
+  ## **Day 7 — 27 May 2026 (Wednesday)**
+
+  - Gssoc's Bounty task completed 
+
 
 
 - Method
