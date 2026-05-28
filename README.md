@@ -65,6 +65,11 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
 
   - Gssoc's Bounty task completed 
 
+  ## **Day 7 — 28 May 2026 (Thursday)**
+
+  - AAttended gssoc events
+  - Applied to few companies
+
 
 
 - Method
