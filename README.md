@@ -70,6 +70,7 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
   - AAttended gssoc events
   - Applied to few companies
 
+  ## **Day 8 — 1 June 2026 (Monday)**
 
 
 - Method
