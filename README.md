@@ -72,6 +72,8 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
 
   ## **Day 8 — 1 June 2026 (Monday)**
 
+  - Analogy , Big O
+
 
 - Method
  - Function
