@@ -74,6 +74,9 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
 
   - Analogy , Big O
 
+  ## **Day 9 — 2 June 2026 (Tuseday)**
+
+  - Logical operators & ternary operators in javascript
 
 - Method
  - Function
