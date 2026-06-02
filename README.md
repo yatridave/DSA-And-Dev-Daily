@@ -78,6 +78,25 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
 
   - Logical operators & ternary operators in javascript
 
+    ## **Day 10 — 3 June 2026 (Wednesday)**
+
+   - Revision of variables in javascript
+   - Revision of Type of Datatypes : Primitive & Non-premitive
+     1. Primitive
+        1. string
+        2. number
+        3. boolean
+        4. undefined
+        5. null
+        6. bigint
+        7. symbol
+     2. non-primitive
+        1. object
+        2. array
+        3. function 
+      
+
+
 - Method
  - Function
  - Scope
