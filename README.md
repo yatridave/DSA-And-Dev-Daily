@@ -81,7 +81,7 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
   ## **Day 10 — 3 June 2026 (Wednesday)**
 
    - Revision of variables in javascript
-   - Revision of Type of Datatypes : Primitive & Non-premitive
+   - Revision of Type of Datatypes in javascript : Primitive & Non-premitive
      1. Primitive
         1. string
         2. number
@@ -94,7 +94,19 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
         1. object
         2. array
         3. function 
-      
+    - Revision of Types of operators in javascript
+     1. Arithmetic operators
+     2. Assignment operators
+     3. Comparision operators
+     4. Logical operators
+     5. Bitwise operators
+     6. Ternary operators
+     7. Unary operators
+     8. String operators
+     9. Relational operators
+     10. Comma operators
+     11. Bigint operators
+     12. Chaining operators
 
 
 - Method
