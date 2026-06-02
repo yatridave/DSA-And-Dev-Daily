@@ -108,6 +108,8 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
      11. Bigint operators
      12. Chaining operators
 
+     - Types of data structure & Types of algorithms [IMP] (written & practiced in the book)
+
 
 - Method
  - Function
