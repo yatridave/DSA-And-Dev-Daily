@@ -78,7 +78,7 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
 
   - Logical operators & ternary operators in javascript
 
-    ## **Day 10 — 3 June 2026 (Wednesday)**
+  ## **Day 10 — 3 June 2026 (Wednesday)**
 
    - Revision of variables in javascript
    - Revision of Type of Datatypes : Primitive & Non-premitive
