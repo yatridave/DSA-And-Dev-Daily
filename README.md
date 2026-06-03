@@ -110,6 +110,8 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
 
      - Types of data structure & Types of algorithms [IMP] (written & practiced in the book)
 
+  ## **Day 11 — 4 June 2026 (Thursday)**
+
 
 - Method
  - Function
