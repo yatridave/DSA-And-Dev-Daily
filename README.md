@@ -113,7 +113,9 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
   ## **Day 11 — 4 June 2026 (Thursday)**
 
   - Gssoc contribution
-  - github 
+  - github
+    
+  ## **Day 1 2—  5June 2026 (Friday)**
 
 
 - Method
