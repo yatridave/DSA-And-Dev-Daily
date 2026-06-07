@@ -93,8 +93,9 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
      2. non-primitive
         1. object
         2. array
-        3. function 
-    - Revision of Types of operators in javascript
+        3. function
+       
+   - Revision of Types of operators in javascript
      1. Arithmetic operators
      2. Assignment operators
      3. Comparision operators
