@@ -116,7 +116,6 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
   - Gssoc contribution
   - github
     
-  ## **Day 12—  9 June 2026 (Tuseday)**
 
 
 - Method
