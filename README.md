@@ -1,4 +1,4 @@
-# DSA-And-Dev-Daily / 90 Days / 14/04/2026 To 28/06/2026
+# DSA-And-Dev-Daily / 50 Days / 11/04/2026 To 30/07/2026
 
 ## **Day 1 — 14 April 2026 (tuseday)**
 - solve 50 practical & theoritical questions-answers of each HTML, CSS, Bootstrap for interview prep.
@@ -116,7 +116,8 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
   - Gssoc contribution
   - github
     
-
+11/06/2026 Onwards 
+---
 
 - Method
  - Function
