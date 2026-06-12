@@ -119,7 +119,7 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
 11/06/2026 Onwards 
 ---
 
-11/06
+
 - Method
  - Function
  - Scope
