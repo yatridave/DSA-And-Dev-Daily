@@ -120,6 +120,9 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
 ---
 
 14/06/2026
+- Time complexity by apna college. - https://youtu.be/PwKv8fOcriM?si=wS0bOCO2b9X2WM_C
+- Applied to deloitte fullstack role.
+- Completed all operators in javascript
 
 
 - Method
