@@ -109,8 +109,6 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
      11. Bigint operators
      12. Chaining operators
 
-     - Types of data structure & Types of algorithms [IMP] (written & practiced in the book)
-
   ## **Day 11 — 4 June 2026 (Thursday)**
 
   - Gssoc contribution
@@ -119,12 +117,16 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
 11/06/2026 Onwards 
 ---
 
-14/06/2026 - Day 12 - Sunday
+Day 12 - 14/06/2026 - Sunday
 - Time complexity by apna college. - https://youtu.be/PwKv8fOcriM?si=wS0bOCO2b9X2WM_C
 - Applied to deloitte fullstack role.
 - Completed all operators in javascript
 
 ---
+
+Day 13 - 15/06/2026 - Monday
+- Revison of operators
+- Types of data structure & Types of algorithms [IMP] (written & practiced in the book)
 
 
 - Method
