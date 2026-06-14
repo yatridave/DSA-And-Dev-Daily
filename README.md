@@ -119,10 +119,12 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
 11/06/2026 Onwards 
 ---
 
-14/06/2026
+14/06/2026 - Day 12 - Sunday
 - Time complexity by apna college. - https://youtu.be/PwKv8fOcriM?si=wS0bOCO2b9X2WM_C
 - Applied to deloitte fullstack role.
 - Completed all operators in javascript
+
+---
 
 
 - Method
