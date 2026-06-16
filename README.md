@@ -128,6 +128,9 @@ Day 13 - 15/06/2026 - Monday
 - Revison of operators
 - Types of data structure & Types of algorithms [IMP] (written & practiced in the book)
 
+Day 14 - 16/06/2026 - Tuseday
+- Sysyem design video by apna college ( video link: https://youtu.be/CuQmQpvw04I?si=3jCTaksaC0TRtD0l )
+
 
 - Method
  - Function
