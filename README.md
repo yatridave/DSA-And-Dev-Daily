@@ -138,8 +138,8 @@ Day 14 - 16/06/2026 - Tuseday
  - Scope
  - Conditions
 
-
-
+20/06/2026
+Bhai mera ho gaya. i am done. kuch ho hi nahi raha hai yaarrrr
 
 ---
 
