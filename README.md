@@ -143,10 +143,12 @@ Bhai mera ho gaya. i am done. kuch ho hi nahi raha hai yaarrrr
 
 ---
 
-Day 15 - 30/06/2026 - Monday
+Day 15 - 30/06/2026 - Tuseday
 - Read big o and time complexity from the book - cracking a coding interview
 
  
-Day 16
+Day 16 - 01/07/2026 - Thursday
+
+
 
 
