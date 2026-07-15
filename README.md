@@ -153,6 +153,8 @@ Day 16 - 01/07/2026 - Thursday
 Day 17 - 06/07/2026 - Monday
 - Git & Github installed
 
-Day 18 - 
+Day 18 - 16/07/2026 - Thursday
+- Back tracking in recursion basics
+- Edgecases 
 
 
