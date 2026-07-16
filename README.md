@@ -157,4 +157,6 @@ Day 18 - 16/07/2026 - Thursday
 - Back tracking in recursion basics
 - Edgecases 
 
+Day 19 - 17/07/2026 - Friday
+
 
