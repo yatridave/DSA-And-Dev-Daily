@@ -158,5 +158,5 @@ Day 18 - 16/07/2026 - Thursday
 - Edgecases 
 
 Day 19 - 17/07/2026 - Friday
-
+- Differnce between frameworks and libraries - study source chatgpt
 
