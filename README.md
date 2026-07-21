@@ -117,18 +117,23 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
 11/06/2026 Onwards 
 ---
 
-Day 12 - 14/06/2026 - Sunday
+  ## **Day 12 — 14 June 2026 (Sunday)**
+
 - Time complexity by apna college. - https://youtu.be/PwKv8fOcriM?si=wS0bOCO2b9X2WM_C
 - Applied to deloitte fullstack role.
 - Completed all operators in javascript
 
 ---
 
-Day 13 - 15/06/2026 - Monday
+  ## **Day 13 — 15 June 2026 (Monday)**
+
 - Revison of operators
 - Types of data structure & Types of algorithms [IMP] (written & practiced in the book)
 
-Day 14 - 16/06/2026 - Tuseday
+---
+
+  ## **Day 14 — 16 June 2026 (Tuseday)**
+
 - Sysyem design video by apna college ( video link: https://youtu.be/CuQmQpvw04I?si=3jCTaksaC0TRtD0l )
 
 
@@ -143,24 +148,52 @@ Bhai mera ho gaya. i am done. kuch ho hi nahi raha hai yaarrrr
 
 ---
 
-Day 15 - 30/06/2026 - Tuseday
+  ## **Day 15 — 30 June 2026 (Tuseday)**
+
 - Read big o and time complexity from the book - cracking a coding interview
 
- 
-Day 16 - 01/07/2026 - Thursday
-- Big O video 
+---
 
-Day 17 - 06/07/2026 - Monday
+  ## **Day 16 — 01 July 2026 (Thursday)**
+
+ - Big O video
+
+---
+   
+  ## **Day 17 — 06 July 2026 (Monday)**
+
 - Git & Github installed
 
-Day 18 - 16/07/2026 - Thursday
+---
+
+  ## **Day 18 — 06 July 2026 (Thursday)**
+
 - Back tracking in recursion basics
 - Edgecases 
 
-Day 19 - 17/07/2026 - Friday
+---
+  ## **Day 19 — 17 July 2026 (Friday)**
+
 - Differnce between frameworks and libraries - study source chatgpt
 
-Day 20 - 21/07/2026
-Clude Target of day 1 - 21	HTML5 semantic tags, forms, accessibility basics. Set up VS Code + Chrome DevTools.
+---
+  ## **Day 20 — 21 July 2026 (Tuseday)**
+
+Clude Target of day 1 - 21 || 	HTML5 semantic tags, forms, accessibility basics. Set up VS Code + Chrome DevTools.
+- Sementic tags : code with harry (https://youtu.be/fhoDRB53DwY?si=2K8qhRaZrTZj-HWS) & w3school
+  **List of sementic tags :**
+<article>
+<aside>
+<details>
+<figcaption>
+<figure>
+<footer>
+<header>
+<main>
+<mark>
+<nav>
+<section>
+<summary>
+<time>
 
 
