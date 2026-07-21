@@ -61,12 +61,9 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
    - Practiced behavioral questions from the book cracking the coding interview
    - SEO video-21 - what is google keyword planner
 
-  ## **Day 7 — 27 May 2026 (Wednesday)**
+  ## **Day 7 — 27 May 2026 (Wednesday)*
 
   - Gssoc's Bounty task completed 
-
-  ## **Day 7 — 28 May 2026 (Thursday)**
-
   - AAttended gssoc events
   - Applied to few companies
 
