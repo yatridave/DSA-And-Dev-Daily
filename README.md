@@ -162,18 +162,6 @@ Bhai mera ho gaya. i am done. kuch ho hi nahi raha hai yaarrrr
 Clude Target of day 1 - 21 || 	HTML5 semantic tags, forms, accessibility basics. Set up VS Code + Chrome DevTools.
 - Sementic tags : code with harry (https://youtu.be/fhoDRB53DwY?si=2K8qhRaZrTZj-HWS) & w3school
   **List of sementic tags :**
-<article>
-<aside>
-<details>
-<figcaption>
-<figure>
-<footer>
-<header>
-<main>
-<mark>
-<nav>
-<section>
-<summary>
-<time>
+
 
 
