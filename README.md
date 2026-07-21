@@ -161,5 +161,6 @@ Day 19 - 17/07/2026 - Friday
 - Differnce between frameworks and libraries - study source chatgpt
 
 Day 20 - 21/07/2026
+Clude Target of day 1 - 21	HTML5 semantic tags, forms, accessibility basics. Set up VS Code + Chrome DevTools.
 
 
