@@ -10,14 +10,11 @@
  - Block/inline elements
  - SEO Optimization
  
----
 
 ## **Day 2 — 15 April 2025 (wednesday)**
 
  - SEO optimization playlist continued
  - Apllied to cisco  
-
- ---
 
 ## **Day 3 — 29 April 2026 (Wednesday)**
 
@@ -120,14 +117,11 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
 - Applied to deloitte fullstack role.
 - Completed all operators in javascript
 
----
 
   ## **Day 13 — 15 June 2026 (Monday)**
 
 - Revison of operators
 - Types of data structure & Types of algorithms [IMP] (written & practiced in the book)
-
----
 
   ## **Day 14 — 16 June 2026 (Tuseday)**
 
@@ -143,37 +137,31 @@ full course youtube link : https://youtube.com/playlist?list=PLjVLYmrlmjGdNxIBId
 20/06/2026
 Bhai mera ho gaya. i am done. kuch ho hi nahi raha hai yaarrrr
 
----
-
   ## **Day 15 — 30 June 2026 (Tuseday)**
 
 - Read big o and time complexity from the book - cracking a coding interview
 
----
 
   ## **Day 16 — 01 July 2026 (Thursday)**
 
  - Big O video
 
----
    
   ## **Day 17 — 06 July 2026 (Monday)**
 
 - Git & Github installed
 
----
 
   ## **Day 18 — 06 July 2026 (Thursday)**
 
 - Back tracking in recursion basics
 - Edgecases 
 
----
   ## **Day 19 — 17 July 2026 (Friday)**
 
 - Differnce between frameworks and libraries - study source chatgpt
 
----
+
   ## **Day 20 — 21 July 2026 (Tuseday)**
 
 Clude Target of day 1 - 21 || 	HTML5 semantic tags, forms, accessibility basics. Set up VS Code + Chrome DevTools.
