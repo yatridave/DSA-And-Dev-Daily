@@ -161,7 +161,10 @@ Bhai mera ho gaya. i am done. kuch ho hi nahi raha hai yaarrrr
 
 Clude Target of day 1 - 21 || 	HTML5 semantic tags, forms, accessibility basics. Set up VS Code + Chrome DevTools.
 - Sementic tags : code with harry (https://youtu.be/fhoDRB53DwY?si=2K8qhRaZrTZj-HWS) & w3school
-- 
+
+## **Day 21 — 22 July 2026 (Wednesday)**
+
+Clude target of day 2 - 22 ||  CSS3: box model, flexbox. Build a simple layout.
 
 
 
