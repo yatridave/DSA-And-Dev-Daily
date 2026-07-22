@@ -165,6 +165,5 @@ Clude Target of day 1 - 21 || 	HTML5 semantic tags, forms, accessibility basics.
 ## **Day 21 — 22 July 2026 (Wednesday)**
 
 Clude target of day 2 - 22 ||  CSS3: box model, flexbox. Build a simple layout.
-
-
+- Prepared with semantic tags question-answers by chatgpt
 
