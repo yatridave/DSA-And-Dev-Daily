@@ -178,4 +178,3 @@ Clude target of day 2 - 22 ||  CSS3: box model, flexbox. Build a simple layout.
 ## **Day 24 — 4 August 2026 (Tusedzy)**
 - Chrome devtools
 
-## **Day 25 — 7 August 2026 (Friday)**
