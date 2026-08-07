@@ -180,3 +180,5 @@ Clude target of day 2 - 22 ||  CSS3: box model, flexbox. Build a simple layout.
 
 ## **Day 25 — 6 August 2026 (Thursday)
 - completed a task for an assesment
+
+## **Day 26 — 8 August 2026 (Saturday)
