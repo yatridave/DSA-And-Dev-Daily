@@ -185,3 +185,4 @@ Clude target of day 2 - 22 ||  CSS3: box model, flexbox. Build a simple layout.
 Guess what kuch bhi nahi kiya aaj 
 
 ## **Day 27 — 11 August 2026 (Tuseday)
+python 100 days , day 1 & 2
