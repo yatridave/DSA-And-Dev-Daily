@@ -186,4 +186,5 @@ Guess what kuch bhi nahi kiya aaj
 
 ## **Day 27 — 13 August 2026 (Thursday)
 **python 100 days :**  - By Harry 
-Day 1, 2, 3 :
+
+**Day 1, 2 & 3** 
