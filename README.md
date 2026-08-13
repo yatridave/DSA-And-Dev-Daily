@@ -188,3 +188,7 @@ Guess what kuch bhi nahi kiya aaj
 **python 100 days :**  - By Harry 
 
 **Day 1, 2 & 3** - 11/12/13 Auguast
+
+- Replit, founder of python
+- Basic Projects of python
+- Module & pip in pyhton
