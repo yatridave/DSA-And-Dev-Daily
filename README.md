@@ -178,13 +178,13 @@ Clude target of day 2 - 22 ||  CSS3: box model, flexbox. Build a simple layout.
 ## **Day 24 — 4 August 2026 (Tuseday)**
 - Chrome devtools
 
-## **Day 25 — 6 August 2026 (Thursday)
+## **Day 25 — 6 August 2026 (Thursday)**
 - completed a task for an assesment
 
-## **Day 26 — 8 August 2026 (Saturday)
+## **Day 26 — 8 August 2026 (Saturday)**
 Guess what kuch bhi nahi kiya aaj 
 
-## **Day 27 — 13 August 2026 (Thursday)
+## **Day 27 — 13 August 2026 (Thursday)**
 **python 100 days :**  - By Harry 
 
 **Day 1, 2 & 3** - 11/12/13 Auguast
@@ -193,5 +193,5 @@ Guess what kuch bhi nahi kiya aaj
 - Basic Projects of python
 - Module & pip in pyhton
 
-## **Day 28 — 18 August 2026 (Tuseday)
+## **Day 28 — 18 August 2026 (Tuseday)**
 
