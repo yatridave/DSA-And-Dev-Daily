@@ -193,5 +193,4 @@ Guess what kuch bhi nahi kiya aaj
 - Basic Projects of python
 - Module & pip in pyhton
 
-## **Day 28 — 18 August 2026 (Tuseday)**
 
