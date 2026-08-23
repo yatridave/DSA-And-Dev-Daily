@@ -171,7 +171,7 @@ Clude target of day 2 - 22 ||  CSS3: box model, flexbox. Build a simple layout.
 - forms
   
 ## **Day 23 — 3 August 2026 (Monday)**
-- semetic tags and forms revision only
+- semantic tags and forms revision only
 - 50 theroritical & practical question/answers solved for sementic tags.
 - 50 theoritical & practical question/answers solved for forms.
 
@@ -196,6 +196,9 @@ Guess what kuch bhi nahi kiya aaj
 **************************************************************
 
 ## **Day 1 — 21 August 2026 (Friday)**
+- What chrome dev tools
+- semantic tags of  HTML
+- Forms in HTML 
 
 ## **Day 2 — 22 August 2026 (Saturday)**
 
