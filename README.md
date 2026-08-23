@@ -193,6 +193,8 @@ Guess what kuch bhi nahi kiya aaj
 - Basic Projects of python
 - Module & pip in pyhton
 
+**************************************************************
+
 ## **Day 1 — 21 August 2026 (Friday)**
 
 ## **Day 2 — 22 August 2026 (Saturday)**
