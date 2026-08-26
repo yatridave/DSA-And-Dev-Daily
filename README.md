@@ -202,8 +202,8 @@ Guess what kuch bhi nahi kiya aaj
 
 ## **Day 2 — 22 August 2026 (Saturday)**
 
-## **Day 2 — 22 August 2026 (Saturday)**
+## **Day 3 — 22 August 2026 (Saturday)**
 
-## **Day 2 — 22 August 2026 (Saturday)**
+## **Day 4 — 22 August 2026 (Saturday)**
 
-## **Day 2 — 22 August 2026 (Saturday)**
+## **Day 5 — 22 August 2026 (Saturday)**
