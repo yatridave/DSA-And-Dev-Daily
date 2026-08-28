@@ -200,9 +200,4 @@ Guess what kuch bhi nahi kiya aaj
 - semantic tags of  HTML
 - Forms in HTML 
 
-## **Day 2 — 22 August 2026 (Saturday)**
-
-## **Day 3 — 22 August 2026 (Saturday)**
-
-## **Day 4 — 22 August 2026 (Saturday)**
 
