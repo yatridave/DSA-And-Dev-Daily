@@ -195,7 +195,7 @@ Guess what kuch bhi nahi kiya aaj
 
 **************************************************************
 
-## **Day 1 — 21 August 2026 (Friday)**
+## **Day 1 — 1 September 2026 (Tuseday)**
 - What chrome dev tools
 - semantic tags of  HTML
 - Forms in HTML 
