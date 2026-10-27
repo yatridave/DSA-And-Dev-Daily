@@ -195,6 +195,13 @@ Guess what kuch bhi nahi kiya aaj
 
 **************************************************************
 
+45 Days Challenge : Everyday 10 hours study  
+**************************************************************
+28 to 31 oct - 4 days
+1 to 30 nov - 30 days
+1 to 11 dec - 11 days 
+**************************************************************
+
 ## **Day 1 — 1 September 2026 (Tuseday)**
 - What chrome dev tools
 - semantic tags of  HTML
