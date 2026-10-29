@@ -1,5 +1,4 @@
-# DSA-And-Dev-Daily 
+# 45 Days 
 
-## **Day 1 — 14 April 2026 (tuseday)**
-- solve 50 practical & theoritical questions-answers of each HTML, CSS, Bootstrap for interview prep.
-
+## **Day 1 — 28 october 2026 (Thursday)**
+- Introduction to manual testing video by Great Learning 
