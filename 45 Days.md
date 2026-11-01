@@ -4,5 +4,5 @@
 - Introduction to manual testing video by Great Learning 
 ## **Day 2/3 — 29 october 2026 (Friday)**
 - continued manual testing for 29/30 day 2 & 3
-## **Day 4 — 31 october 2026 (Saturday)**
+## **Day 4/5 — 31 october 2026 (Saturday)**
 Holiday
