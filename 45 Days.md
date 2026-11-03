@@ -8,3 +8,5 @@
 Holiday
 ## **Day 6 — 2 November 2026 (Monday)**
 - Completed Introduction to manual testing video by Great Learning 
+## **Day 7 — 3 November 2026 (Tuseday)**
+- CSE-1 2026 paper solved
