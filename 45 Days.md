@@ -10,3 +10,5 @@ Holiday
 - Completed Introduction to manual testing video by Great Learning 
 ## **Day 7 — 3 November 2026 (Tuseday)**
 - CSE-1 2026 paper solved
+## 4 November
+Aaj to kuch kiya hi nahi.
