@@ -12,3 +12,5 @@ Holiday
 - CSE-1 2026 paper solved
 ## 4 November
 Aaj to kuch kiya hi nahi.
+## 5 November 
+Aaj b kuch nai Kiya so sad.
