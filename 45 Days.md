@@ -17,5 +17,5 @@ Aaj b kuch nai Kiya so sad.
 
 Diwali Diwali ke chakkar me 5 dino ka diwala nikal diya abb kal se padhna padega thoda seriously.
 
-
+kal se padhna hai bol ke bhi do din nikal diye ye after diwali parties khatam hi nahi ho rahi hai.
 
