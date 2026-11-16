@@ -22,4 +22,4 @@ kal se padhna hai bol ke bhi do din nikal diye ye after diwali parties khatam hi
 Starting again...
 
 ## **Day 1 — 16 october 2026 (Monday)**
-
+- completed manual testing video
