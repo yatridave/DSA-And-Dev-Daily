@@ -24,3 +24,4 @@ Starting again...
 ## **Day 1 — 16 october 2026 (Monday)**
 - completed manual testing video
 ## **Day 2/3 — 17/18 october 2026 (Tuseday/wednesday)**
+wasted two days
