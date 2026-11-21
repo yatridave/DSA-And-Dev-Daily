@@ -26,3 +26,9 @@ Starting again...
 ## **Day 2/3 — 17/18 october 2026 (Tuseday/wednesday)**
 wasted two days
 ## **Day 4 — 19 october 2026 (Thursday)**
+- Testing Basics
+## **Day 5 — 20 october 2026 (Friday)**
+wasted..
+## **Day 6 — 21 october 2026 (Saturday)**
+- LLM Basic - 2 hours
+- RAG system - 1 hour
