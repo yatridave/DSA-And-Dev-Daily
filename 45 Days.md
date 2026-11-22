@@ -32,3 +32,5 @@ wasted..
 ## **Day 6 — 21 october 2026 (Saturday)**
 - LLM Basic - 2 hours
 - RAG system - 1 hour
+## **Day 7 — 22 october 2026 (Sunday)**
+Holiday
