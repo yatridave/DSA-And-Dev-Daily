@@ -34,3 +34,4 @@ wasted..
 - RAG system - 1 hour
 ## **Day 7 — 22 october 2026 (Sunday)**
 Holiday
+## **Day 8/9 — 22/23 october 2026 (Monday/Tuseday)**
