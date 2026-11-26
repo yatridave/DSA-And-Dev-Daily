@@ -38,4 +38,5 @@ Holiday
 God this wedding season's gonna waste so much of time.
 ## **Day 10 — 25 october 2026 (Wednesday)**
 - Introduction to automation testing course by great learning
+## **Day 11 — 26 october 2026 (Thursday)**
 
