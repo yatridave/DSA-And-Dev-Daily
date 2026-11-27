@@ -21,22 +21,22 @@ kal se padhna hai bol ke bhi do din nikal diye ye after diwali parties khatam hi
 
 Starting again...
 
-## **Day 1 — 16 october 2026 (Monday)**
+## **Day 1 — 16 November 2026 (Monday)**
 - completed manual testing video
-## **Day 2/3 — 17/18 october 2026 (Tuseday/wednesday)**
+## **Day 2/3 — 17/18 November 2026 (Tuseday/wednesday)**
 wasted two days
-## **Day 4 — 19 october 2026 (Thursday)**
+## **Day 4 — 19 November 2026 (Thursday)**
 - Testing Basics
-## **Day 5 — 20 october 2026 (Friday)**
+## **Day 5 — 20 November 2026 (Friday)**
 wasted..
-## **Day 6 — 21 october 2026 (Saturday)**
+## **Day 6 — 21 November 2026 (Saturday)**
 - LLM Basic - 2 hours
 - RAG system - 1 hour
-## **Day 7 — 22 october 2026 (Sunday)**
+## **Day 7 — 22 November 2026 (Sunday)**
 Holiday
-## **Day 8/9 — 23/24 october 2026 (Monday/Tuseday)**
+## **Day 8/9 — 23/24 November 2026 (Monday/Tuseday)**
 God this wedding season's gonna waste so much of time.
-## **Day 10 — 25 october 2026 (Wednesday)**
+## **Day 10 — 25 November 2026 (Wednesday)**
 - Introduction to automation testing course by great learning
-## **Day 11 — 26 october 2026 (Thursday)**
+## **Day 11 — 28 November 2026 (Saturday)**
 
